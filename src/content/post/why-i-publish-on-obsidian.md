@@ -3,7 +3,7 @@ title: Why i publish on Obsidian
 description: ""
 tags: []
 pubDate: 2026-09-06
-draft: true
+draft: false
 history:
   - Unbenannt
 ---

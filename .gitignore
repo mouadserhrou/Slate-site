@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # Obsidian config
 .obsidian/
+# Obsidian workspace files
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
