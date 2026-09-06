@@ -1,6 +1,6 @@
 ---
 slug: arterielle-hypertonie
-titel: Arterielle Hypertonie
+title: Arterielle Hypertonie
 untertitel: Kenntnisprüfung — klinisch, leitlinienorientiert, prüfungsnah
 fachgebiet: Innere Medizin
 synonyme:
