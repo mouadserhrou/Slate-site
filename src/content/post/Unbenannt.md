@@ -1,1 +1,0 @@
-![arterielle-hypertonie](arterielle-hypertonie.md)
